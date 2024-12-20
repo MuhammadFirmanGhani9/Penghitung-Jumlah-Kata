@@ -1,0 +1,2999 @@
+Kalimat: & 4 budi 5 # tiga 5 1 %
+Jumlah kata: 2
+
+Kalimat: % 2 @ & ,
+Jumlah kata: 0
+
+Kalimat: 2 6 & dua 1
+Jumlah kata: 1
+
+Kalimat: 5 2 ello kamaba 7
+Jumlah kata: 2
+
+Kalimat: reget budi 9 ? kaka 8 @ 5
+Jumlah kata: 3
+
+Kalimat: kamaba : ? lorem sari 0
+Jumlah kata: 3
+
+Kalimat: nina : rida dua ipsum budi 5 0 1 ,
+Jumlah kata: 5
+
+Kalimat: 0 kamaba reget 0 0 lorem 3
+Jumlah kata: 3
+
+Kalimat: , tiga tiga . : ipsum ? lorem reget satu
+Jumlah kata: 6
+
+Kalimat: 5 satu lorem 4 4 2 3 4
+Jumlah kata: 2
+
+Kalimat: 4 @ lorem : 4
+Jumlah kata: 1
+
+Kalimat: budi kaka nina 9 0 # reget budi
+Jumlah kata: 5
+
+Kalimat: tiga 2 ! dua satu tiga 0 !
+Jumlah kata: 4
+
+Kalimat: & lorem # & 8 3 andi ello
+Jumlah kata: 3
+
+Kalimat: . 2 sari ipsum kamaba % reget 5 5 ipsum
+Jumlah kata: 5
+
+Kalimat: 5 kaka kamaba ! nina lorem
+Jumlah kata: 4
+
+Kalimat: 9 satu & nina budi ello : , @
+Jumlah kata: 4
+
+Kalimat: budi 6 andi 7 ? 3 dua & 0
+Jumlah kata: 3
+
+Kalimat: % ! 5 @ 0
+Jumlah kata: 0
+
+Kalimat: 2 2 9 4 1 andi 9
+Jumlah kata: 1
+
+Kalimat: ; 9 8 # kamaba ; dolor & ello ello
+Jumlah kata: 4
+
+Kalimat: 9 budi 1 ; 1 dua ? 5 kamaba 6
+Jumlah kata: 3
+
+Kalimat: 6 6 1 rida 9 3 lorem 7
+Jumlah kata: 2
+
+Kalimat: rida # 8 5 5 , satu ello 1 reget
+Jumlah kata: 4
+
+Kalimat: ello ; : satu ,
+Jumlah kata: 2
+
+Kalimat: , & ello ipsum % sari tiga dua
+Jumlah kata: 5
+
+Kalimat: @ @ & @ sari
+Jumlah kata: 1
+
+Kalimat: budi % 4 kaka dua : budi # 0
+Jumlah kata: 4
+
+Kalimat: dua sari lorem 6 @ rida
+Jumlah kata: 4
+
+Kalimat: 0 : 1 2 & . rida 6 sari
+Jumlah kata: 2
+
+Kalimat: nina 5 1 ; andi 2 : 1 !
+Jumlah kata: 2
+
+Kalimat: 5 3 ; & 0 kaka ; ipsum # ?
+Jumlah kata: 2
+
+Kalimat: budi 4 dua ! kaka 7 kamaba 8 1 ?
+Jumlah kata: 4
+
+Kalimat: nina ? dua , 9 5 2 5 ello nina
+Jumlah kata: 4
+
+Kalimat: 0 : 4 : & 1 nina .
+Jumlah kata: 1
+
+Kalimat: 6 andi tiga satu 3 nina lorem tiga 9
+Jumlah kata: 6
+
+Kalimat: % ? @ & : satu budi
+Jumlah kata: 2
+
+Kalimat: 1 ! rida , , sari 7 sari
+Jumlah kata: 3
+
+Kalimat: & dua satu # budi % & % : tiga
+Jumlah kata: 4
+
+Kalimat: 1 ; @ budi 9 nina tiga . 7 6
+Jumlah kata: 3
+
+Kalimat: sari satu ello ! dua @
+Jumlah kata: 4
+
+Kalimat: : 9 ; ipsum nina 1 1 7
+Jumlah kata: 2
+
+Kalimat: # sari lorem % ; tiga @ 0
+Jumlah kata: 3
+
+Kalimat: ello kaka kamaba ello dolor dua sari 7 %
+Jumlah kata: 7
+
+Kalimat: 5 ! rida # % 2 % :
+Jumlah kata: 1
+
+Kalimat: dolor satu 8 kamaba ? satu tiga . nina 1
+Jumlah kata: 6
+
+Kalimat: & 7 8 # . tiga : lorem
+Jumlah kata: 2
+
+Kalimat: 6 kaka : ; rida
+Jumlah kata: 2
+
+Kalimat: ! 8 . , nina
+Jumlah kata: 1
+
+Kalimat: ? # ! tiga 3 ! dolor sari
+Jumlah kata: 3
+
+Kalimat: reget . 6 ipsum kamaba
+Jumlah kata: 3
+
+Kalimat: @ ello 2 5 4 3 , kaka %
+Jumlah kata: 2
+
+Kalimat: nina 7 @ 3 3 8 0 . ?
+Jumlah kata: 1
+
+Kalimat: 2 ! ? 0 nina nina ello . 3 budi
+Jumlah kata: 4
+
+Kalimat: 2 satu sari @ 2 ? % 8
+Jumlah kata: 2
+
+Kalimat: % satu : satu kamaba 3 ipsum 6 kamaba
+Jumlah kata: 5
+
+Kalimat: : & sari ello . 9 budi 8 andi
+Jumlah kata: 4
+
+Kalimat: kaka 0 . ! reget tiga 2 budi & budi
+Jumlah kata: 5
+
+Kalimat: ; 5 7 4 kamaba ?
+Jumlah kata: 1
+
+Kalimat: andi dolor reget @ tiga ? 6 6 sari 1
+Jumlah kata: 5
+
+Kalimat: : 5 4 ? 2 kamaba
+Jumlah kata: 1
+
+Kalimat: & 3 7 reget ; : dolor & %
+Jumlah kata: 2
+
+Kalimat: 0 0 ello 4 2
+Jumlah kata: 1
+
+Kalimat: & 7 : 6 . . , : 7 0
+Jumlah kata: 0
+
+Kalimat: & tiga kaka 2 3 #
+Jumlah kata: 2
+
+Kalimat: ! dua tiga 8 rida ! andi 0
+Jumlah kata: 4
+
+Kalimat: 4 ! # ! reget : lorem
+Jumlah kata: 2
+
+Kalimat: 5 andi ello : 2 6 andi
+Jumlah kata: 3
+
+Kalimat: & 7 satu . rida , 8 reget dolor satu
+Jumlah kata: 5
+
+Kalimat: satu andi # % # ! ello budi
+Jumlah kata: 4
+
+Kalimat: % 3 nina 2 ? reget tiga ,
+Jumlah kata: 3
+
+Kalimat: # ! 5 andi 2 lorem @
+Jumlah kata: 2
+
+Kalimat: andi . # ; andi dua % budi 1
+Jumlah kata: 4
+
+Kalimat: budi ! , 7 tiga satu
+Jumlah kata: 3
+
+Kalimat: satu kamaba kaka , 3
+Jumlah kata: 3
+
+Kalimat: 9 ? sari , ! 8 lorem 0
+Jumlah kata: 2
+
+Kalimat: lorem ; 8 lorem 8 2 kamaba dua
+Jumlah kata: 4
+
+Kalimat: 0 2 % & sari
+Jumlah kata: 1
+
+Kalimat: 8 kaka nina : , nina ello , tiga
+Jumlah kata: 5
+
+Kalimat: ? andi ; rida dolor ipsum ?
+Jumlah kata: 4
+
+Kalimat: 1 # ! reget % 1 . , satu
+Jumlah kata: 2
+
+Kalimat: 8 rida 6 ! 4 0 satu
+Jumlah kata: 2
+
+Kalimat: 3 & andi ? andi
+Jumlah kata: 2
+
+Kalimat: 4 andi reget ; 6 lorem
+Jumlah kata: 3
+
+Kalimat: andi @ dolor budi ! 3
+Jumlah kata: 3
+
+Kalimat: kamaba ; 6 . : 0
+Jumlah kata: 1
+
+Kalimat: kaka & ; ello ; : 1
+Jumlah kata: 2
+
+Kalimat: & 7 ? tiga 5 : ? ipsum & ipsum
+Jumlah kata: 3
+
+Kalimat: 6 4 # : kaka , # # 6 !
+Jumlah kata: 1
+
+Kalimat: 9 ! kaka rida tiga : ?
+Jumlah kata: 3
+
+Kalimat: @ kaka satu 1 6 . 0 dolor 5
+Jumlah kata: 3
+
+Kalimat: dolor 3 4 4 ipsum . satu
+Jumlah kata: 3
+
+Kalimat: dua andi budi kaka ! & 5 3
+Jumlah kata: 4
+
+Kalimat: ; ? : @ . # & 5
+Jumlah kata: 0
+
+Kalimat: 9 8 0 # satu sari 8 @ 8
+Jumlah kata: 2
+
+Kalimat: satu 2 2 & 5 ello kaka kaka
+Jumlah kata: 4
+
+Kalimat: tiga 8 & 6 ? @ !
+Jumlah kata: 1
+
+Kalimat: reget . ; 5 9 , 7 ; 7 !
+Jumlah kata: 1
+
+Kalimat: & dua , 6 ello ; 3 @
+Jumlah kata: 2
+
+Kalimat: 6 # ; ipsum reget 8
+Jumlah kata: 2
+
+Kalimat: 0 : # dolor ! ,
+Jumlah kata: 1
+
+Kalimat: 5 9 & 4 dolor
+Jumlah kata: 1
+
+Kalimat: 2 & & ! nina kaka 6 7
+Jumlah kata: 2
+
+Kalimat: 6 2 3 8 9 kaka @ # 8 budi
+Jumlah kata: 2
+
+Kalimat: 6 kaka 7 . 6 6 ! ? ello #
+Jumlah kata: 2
+
+Kalimat: satu 7 6 4 .
+Jumlah kata: 1
+
+Kalimat: 5 budi , nina dua andi & kamaba 3
+Jumlah kata: 5
+
+Kalimat: 8 ? ello 6 8 0 , &
+Jumlah kata: 1
+
+Kalimat: @ ello 3 ; reget & budi satu dolor
+Jumlah kata: 5
+
+Kalimat: ? andi tiga satu sari 5
+Jumlah kata: 4
+
+Kalimat: sari lorem 6 ? 2 satu 8 %
+Jumlah kata: 3
+
+Kalimat: 1 & budi 8 ? nina tiga 7
+Jumlah kata: 3
+
+Kalimat: 0 ! satu % 3 tiga
+Jumlah kata: 2
+
+Kalimat: 5 . : 6 2 . 3
+Jumlah kata: 0
+
+Kalimat: reget tiga 6 5 9
+Jumlah kata: 2
+
+Kalimat: 3 5 lorem ! , andi 3 andi dua #
+Jumlah kata: 4
+
+Kalimat: 3 ! ; 4 9 1 : kaka @ #
+Jumlah kata: 1
+
+Kalimat: satu 9 ? : kaka 7 andi @ tiga
+Jumlah kata: 4
+
+Kalimat: andi 9 ? % ; 1 5 5
+Jumlah kata: 1
+
+Kalimat: 3 kamaba kamaba ! ; 6 9
+Jumlah kata: 2
+
+Kalimat: lorem kamaba % sari sari , kamaba 9 ello
+Jumlah kata: 6
+
+Kalimat: reget satu 6 kamaba ello
+Jumlah kata: 4
+
+Kalimat: 8 ! . dua 0
+Jumlah kata: 1
+
+Kalimat: ; lorem tiga dua 1
+Jumlah kata: 3
+
+Kalimat: 4 @ andi reget 0 dua
+Jumlah kata: 3
+
+Kalimat: kaka & 0 kaka 6 kaka ? dua
+Jumlah kata: 4
+
+Kalimat: rida sari % & reget ? ! ipsum
+Jumlah kata: 4
+
+Kalimat: dua 3 & 2 0 tiga
+Jumlah kata: 2
+
+Kalimat: budi . nina 2 ello
+Jumlah kata: 3
+
+Kalimat: kamaba rida , tiga 4 0 kamaba
+Jumlah kata: 4
+
+Kalimat: 2 & reget 2 0 @ 4 nina
+Jumlah kata: 2
+
+Kalimat: ; : : 9 dua % @ &
+Jumlah kata: 1
+
+Kalimat: 8 3 dua 0 @
+Jumlah kata: 1
+
+Kalimat: rida 6 ! 0 ; ! rida budi
+Jumlah kata: 3
+
+Kalimat: 3 # ello 0 ipsum 6
+Jumlah kata: 2
+
+Kalimat: lorem , ? kamaba sari
+Jumlah kata: 3
+
+Kalimat: 8 kaka & 0 6
+Jumlah kata: 1
+
+Kalimat: # ! 1 dolor tiga 9
+Jumlah kata: 2
+
+Kalimat: , sari 9 andi ello budi 5
+Jumlah kata: 4
+
+Kalimat: ! % : andi 9 %
+Jumlah kata: 1
+
+Kalimat: sari sari reget kamaba 0 9
+Jumlah kata: 4
+
+Kalimat: @ kaka . satu : .
+Jumlah kata: 2
+
+Kalimat: 9 1 & , @ nina
+Jumlah kata: 1
+
+Kalimat: ipsum ipsum dua dolor . nina ;
+Jumlah kata: 5
+
+Kalimat: ! 2 dua ! @
+Jumlah kata: 1
+
+Kalimat: 8 tiga ; 2 kaka . ,
+Jumlah kata: 2
+
+Kalimat: 5 ello nina 4 & & 3
+Jumlah kata: 2
+
+Kalimat: , # kaka 0 8 6 1 ipsum
+Jumlah kata: 2
+
+Kalimat: : satu 6 5 & 5
+Jumlah kata: 1
+
+Kalimat: satu 3 ipsum 1 satu 6
+Jumlah kata: 3
+
+Kalimat: nina kamaba kaka : 6 kamaba # 3 %
+Jumlah kata: 4
+
+Kalimat: : nina satu dua rida
+Jumlah kata: 4
+
+Kalimat: & 7 8 1 0 . kaka #
+Jumlah kata: 1
+
+Kalimat: ello kaka 7 kaka ; : 0 7 reget 5
+Jumlah kata: 4
+
+Kalimat: ipsum & kamaba ello ? 0 ; tiga andi
+Jumlah kata: 5
+
+Kalimat: ! 2 5 0 sari & ; 7 sari ipsum
+Jumlah kata: 3
+
+Kalimat: & 2 , , 2 9 5 ; ipsum 7
+Jumlah kata: 1
+
+Kalimat: reget ; satu kaka ? 9 rida # 6
+Jumlah kata: 4
+
+Kalimat: lorem 9 @ 7 8 kaka ?
+Jumlah kata: 2
+
+Kalimat: 2 ; ; 8 4 ipsum
+Jumlah kata: 1
+
+Kalimat: ? # budi & 1 kamaba , kamaba
+Jumlah kata: 3
+
+Kalimat: 7 kamaba ello 9 &
+Jumlah kata: 2
+
+Kalimat: ? % lorem 7 4 % ! ello
+Jumlah kata: 2
+
+Kalimat: 4 @ , kamaba satu budi 2 dolor
+Jumlah kata: 4
+
+Kalimat: 5 . lorem 5 2 dua
+Jumlah kata: 2
+
+Kalimat: ! tiga sari 5 rida ; dolor dolor
+Jumlah kata: 5
+
+Kalimat: rida kaka 4 ; sari ipsum dolor 0 0
+Jumlah kata: 5
+
+Kalimat: . kaka ipsum # 9
+Jumlah kata: 2
+
+Kalimat: kaka dua 5 : &
+Jumlah kata: 2
+
+Kalimat: satu ! ; satu 6 ipsum satu
+Jumlah kata: 4
+
+Kalimat: & % lorem budi 1 ! ! & @ :
+Jumlah kata: 2
+
+Kalimat: 2 ! lorem dolor 6 5 nina 6
+Jumlah kata: 3
+
+Kalimat: satu dua ello 8 andi ? ello . 2 ello
+Jumlah kata: 6
+
+Kalimat: ; kamaba sari : 0
+Jumlah kata: 2
+
+Kalimat: 6 & kamaba ? nina
+Jumlah kata: 2
+
+Kalimat: lorem % satu lorem dolor kamaba !
+Jumlah kata: 5
+
+Kalimat: . 9 ; kaka rida 1 1 % reget
+Jumlah kata: 3
+
+Kalimat: sari & ! : , satu # . ; .
+Jumlah kata: 2
+
+Kalimat: 3 @ # @ dua 5 3 7
+Jumlah kata: 1
+
+Kalimat: 5 ? kamaba # budi
+Jumlah kata: 2
+
+Kalimat: ello ! satu : , 8
+Jumlah kata: 2
+
+Kalimat: % : 1 reget andi 7 andi kamaba
+Jumlah kata: 4
+
+Kalimat: 9 @ , budi . ; 6
+Jumlah kata: 1
+
+Kalimat: ! 1 , 5 @
+Jumlah kata: 0
+
+Kalimat: 1 ello 2 lorem , 7 2
+Jumlah kata: 2
+
+Kalimat: budi sari ? 7 4 kamaba 5 : rida ;
+Jumlah kata: 4
+
+Kalimat: nina 0 sari # nina
+Jumlah kata: 3
+
+Kalimat: ! ? 2 budi , ello
+Jumlah kata: 2
+
+Kalimat: % : dua 1 andi
+Jumlah kata: 2
+
+Kalimat: tiga tiga 2 , : ; ; . dolor dolor
+Jumlah kata: 4
+
+Kalimat: 0 dolor 3 dolor 4 & 9 .
+Jumlah kata: 2
+
+Kalimat: 6 kaka 6 dolor ipsum
+Jumlah kata: 3
+
+Kalimat: 9 0 6 budi budi . 2
+Jumlah kata: 2
+
+Kalimat: ? ! 4 8 nina .
+Jumlah kata: 1
+
+Kalimat: 1 4 ipsum 6 andi 8
+Jumlah kata: 2
+
+Kalimat: lorem 7 6 @ :
+Jumlah kata: 1
+
+Kalimat: @ ? ; 7 7 & 2 nina 3 &
+Jumlah kata: 1
+
+Kalimat: 7 kamaba 0 dua 1 @
+Jumlah kata: 2
+
+Kalimat: kamaba 5 & # @ dolor 0
+Jumlah kata: 2
+
+Kalimat: 9 7 3 . 4 % 7 2 sari tiga
+Jumlah kata: 2
+
+Kalimat: sari @ kaka @ ;
+Jumlah kata: 2
+
+Kalimat: 5 nina andi 0 sari ,
+Jumlah kata: 3
+
+Kalimat: ? 7 ! rida ! 1 budi satu 4
+Jumlah kata: 3
+
+Kalimat: ipsum ipsum tiga : 1 6
+Jumlah kata: 3
+
+Kalimat: 4 satu ! 6 kamaba 7 ello . # 4
+Jumlah kata: 3
+
+Kalimat: nina ! : 4 3 rida 8 !
+Jumlah kata: 2
+
+Kalimat: & 7 6 kamaba ello 2
+Jumlah kata: 2
+
+Kalimat: 3 # budi 3 7 ipsum
+Jumlah kata: 2
+
+Kalimat: 4 9 0 8 lorem & ello ipsum
+Jumlah kata: 3
+
+Kalimat: sari # @ ello : 8
+Jumlah kata: 2
+
+Kalimat: 7 7 4 4 ? ,
+Jumlah kata: 0
+
+Kalimat: ipsum rida satu lorem ?
+Jumlah kata: 4
+
+Kalimat: @ ! kamaba lorem . ? @ ipsum 4
+Jumlah kata: 3
+
+Kalimat: 5 sari 3 3 budi 7
+Jumlah kata: 2
+
+Kalimat: 1 6 : ? 3
+Jumlah kata: 0
+
+Kalimat: 0 6 ello 0 , @
+Jumlah kata: 1
+
+Kalimat: 8 dolor nina 5 :
+Jumlah kata: 2
+
+Kalimat: 6 ? ello ! # ello ; # 3
+Jumlah kata: 2
+
+Kalimat: 1 0 reget 9 4 0
+Jumlah kata: 1
+
+Kalimat: dolor lorem 4 8 lorem ?
+Jumlah kata: 3
+
+Kalimat: 3 # % rida 1 ipsum
+Jumlah kata: 2
+
+Kalimat: andi 3 5 kamaba 7 & 7 sari
+Jumlah kata: 3
+
+Kalimat: 4 andi , dua # . 1 6 7
+Jumlah kata: 2
+
+Kalimat: 0 lorem tiga ; % 0 andi : :
+Jumlah kata: 3
+
+Kalimat: budi dua dua % satu sari 1
+Jumlah kata: 5
+
+Kalimat: 1 7 ; lorem # 6 budi lorem
+Jumlah kata: 3
+
+Kalimat: ello reget # 2 andi andi ? ello 3
+Jumlah kata: 5
+
+Kalimat: : lorem @ kaka ; ? ipsum @ rida
+Jumlah kata: 4
+
+Kalimat: kamaba 8 6 % rida dolor 2
+Jumlah kata: 3
+
+Kalimat: 9 4 @ 8 budi kaka . 7 & ipsum
+Jumlah kata: 3
+
+Kalimat: nina . dolor 8 lorem ! 9
+Jumlah kata: 3
+
+Kalimat: : : ello 1 lorem 8 satu 3 2 ello
+Jumlah kata: 4
+
+Kalimat: & kamaba 8 ! 0 & reget budi
+Jumlah kata: 3
+
+Kalimat: : # ? 0 9 7 kamaba
+Jumlah kata: 1
+
+Kalimat: ? 2 , 4 ? reget ; # !
+Jumlah kata: 1
+
+Kalimat: 6 2 5 3 kamaba ,
+Jumlah kata: 1
+
+Kalimat: & 2 nina satu dua 2 ?
+Jumlah kata: 3
+
+Kalimat: 7 ipsum , 8 8 # 9 5 ; nina
+Jumlah kata: 2
+
+Kalimat: 5 7 sari 2 6 ; ?
+Jumlah kata: 1
+
+Kalimat: andi ? % kamaba , ello
+Jumlah kata: 3
+
+Kalimat: lorem 1 9 # # : 8 5
+Jumlah kata: 1
+
+Kalimat: ; budi 5 , budi
+Jumlah kata: 2
+
+Kalimat: sari ! ! reget , !
+Jumlah kata: 2
+
+Kalimat: : # 9 1 ? reget kamaba 4
+Jumlah kata: 2
+
+Kalimat: & 8 2 2 ? # andi satu 4
+Jumlah kata: 2
+
+Kalimat: , 9 sari , : lorem 4 nina
+Jumlah kata: 3
+
+Kalimat: ; 3 , dua satu , :
+Jumlah kata: 2
+
+Kalimat: 8 dua sari sari budi rida kaka @ 0
+Jumlah kata: 6
+
+Kalimat: 5 4 ! ; , 9 . kamaba
+Jumlah kata: 1
+
+Kalimat: 7 andi 2 6 9 9
+Jumlah kata: 1
+
+Kalimat: ? ; lorem lorem ello .
+Jumlah kata: 3
+
+Kalimat: reget lorem ; dolor 1 : lorem
+Jumlah kata: 4
+
+Kalimat: dua budi 5 ? ; 7 ipsum
+Jumlah kata: 3
+
+Kalimat: dua rida % ? !
+Jumlah kata: 2
+
+Kalimat: dua kaka dua tiga 0 satu ipsum ? ,
+Jumlah kata: 6
+
+Kalimat: ! lorem kamaba kamaba 9 rida
+Jumlah kata: 4
+
+Kalimat: dua lorem 7 ello % rida
+Jumlah kata: 4
+
+Kalimat: ; dolor 7 ! 8 budi
+Jumlah kata: 2
+
+Kalimat: dua ! 5 lorem ! % 5 5 satu ;
+Jumlah kata: 3
+
+Kalimat: 5 4 & 5 1 ;
+Jumlah kata: 0
+
+Kalimat: % ! budi lorem 3 , 3 sari 4 budi
+Jumlah kata: 4
+
+Kalimat: 1 dua 6 satu ?
+Jumlah kata: 2
+
+Kalimat: reget kamaba 2 ipsum 3 ipsum . 6
+Jumlah kata: 4
+
+Kalimat: 7 8 ipsum & dua dolor reget 9 8 kamaba
+Jumlah kata: 5
+
+Kalimat: . ? kaka lorem kaka 9 # ello reget
+Jumlah kata: 5
+
+Kalimat: rida lorem 1 satu reget kaka ; ? sari
+Jumlah kata: 6
+
+Kalimat: # 4 # satu @
+Jumlah kata: 1
+
+Kalimat: satu nina . dolor 5 satu !
+Jumlah kata: 4
+
+Kalimat: ! 8 1 % ipsum ; % 4 ipsum %
+Jumlah kata: 2
+
+Kalimat: ello 7 , & nina
+Jumlah kata: 2
+
+Kalimat: 6 5 4 andi 1
+Jumlah kata: 1
+
+Kalimat: 7 # dolor 8 & nina 6 % reget
+Jumlah kata: 3
+
+Kalimat: & ipsum 0 @ 9 ? lorem
+Jumlah kata: 2
+
+Kalimat: ; ipsum 8 nina & 1 7 !
+Jumlah kata: 2
+
+Kalimat: : kamaba nina & 6 . &
+Jumlah kata: 2
+
+Kalimat: & 5 reget 6 ?
+Jumlah kata: 1
+
+Kalimat: dolor kamaba rida 5 tiga reget ;
+Jumlah kata: 5
+
+Kalimat: nina % 6 7 4
+Jumlah kata: 1
+
+Kalimat: 9 . ello : 8 1 3 %
+Jumlah kata: 1
+
+Kalimat: : 1 ; 9 kamaba budi &
+Jumlah kata: 2
+
+Kalimat: ipsum 3 satu ! ello ; .
+Jumlah kata: 3
+
+Kalimat: reget 6 ? dolor 9 9
+Jumlah kata: 2
+
+Kalimat: kaka # sari # 7 rida
+Jumlah kata: 3
+
+Kalimat: , & 8 rida @ .
+Jumlah kata: 1
+
+Kalimat: kamaba ? lorem ipsum . % 3
+Jumlah kata: 3
+
+Kalimat: : & ? 0 4 4 dolor 6
+Jumlah kata: 1
+
+Kalimat: ; nina budi : # 2 #
+Jumlah kata: 2
+
+Kalimat: dolor 6 & kamaba 7 3 : 5 kaka 5
+Jumlah kata: 3
+
+Kalimat: reget satu 0 % # 8 satu
+Jumlah kata: 3
+
+Kalimat: , ; @ 7 ; sari
+Jumlah kata: 1
+
+Kalimat: kamaba 5 3 nina andi 7 4 ello tiga
+Jumlah kata: 5
+
+Kalimat: kaka . 3 andi . ipsum sari % @
+Jumlah kata: 4
+
+Kalimat: 8 kamaba 6 kamaba ipsum 6 8
+Jumlah kata: 3
+
+Kalimat: budi 0 7 ; 4 ? dolor satu
+Jumlah kata: 3
+
+Kalimat: sari 5 andi % ; lorem
+Jumlah kata: 3
+
+Kalimat: dua nina 1 rida ? .
+Jumlah kata: 3
+
+Kalimat: 2 % ; ? andi #
+Jumlah kata: 1
+
+Kalimat: reget satu tiga 5 : ello
+Jumlah kata: 4
+
+Kalimat: & ? 1 ipsum ; ipsum #
+Jumlah kata: 2
+
+Kalimat: % kaka ! budi 3 nina 3 ? 0 9
+Jumlah kata: 3
+
+Kalimat: lorem kaka % 3 3 3
+Jumlah kata: 2
+
+Kalimat: 9 lorem rida @ 6 dua
+Jumlah kata: 3
+
+Kalimat: ipsum 3 0 : , ipsum , ipsum
+Jumlah kata: 3
+
+Kalimat: 0 : nina 2 # ello : ! 8
+Jumlah kata: 2
+
+Kalimat: : , 3 1 2 3 , 0 # sari
+Jumlah kata: 1
+
+Kalimat: ? ello 1 9 4 5 8
+Jumlah kata: 1
+
+Kalimat: budi rida 3 2 dua
+Jumlah kata: 3
+
+Kalimat: 9 # lorem lorem kaka ipsum nina 3
+Jumlah kata: 5
+
+Kalimat: 9 4 kaka dua 2 tiga 5 .
+Jumlah kata: 3
+
+Kalimat: 9 @ budi dua : rida dua # 4
+Jumlah kata: 4
+
+Kalimat: sari & 5 : # 9 dolor
+Jumlah kata: 2
+
+Kalimat: 0 dolor 7 kaka 9 0 2 nina
+Jumlah kata: 3
+
+Kalimat: 9 2 % ? 7 reget kaka 4 % nina
+Jumlah kata: 3
+
+Kalimat: @ , % nina rida ello @ &
+Jumlah kata: 3
+
+Kalimat: @ # ! ipsum 8 & 3
+Jumlah kata: 1
+
+Kalimat: % ? kamaba 3 5 7 & @ 7
+Jumlah kata: 1
+
+Kalimat: 5 7 4 lorem kamaba 9 # #
+Jumlah kata: 2
+
+Kalimat: dolor 6 & ; tiga lorem 0 : 5
+Jumlah kata: 3
+
+Kalimat: 0 3 9 3 tiga nina 7 rida #
+Jumlah kata: 3
+
+Kalimat: . reget ipsum nina 7 . : %
+Jumlah kata: 3
+
+Kalimat: 3 nina 1 satu 8 satu 3 9 kamaba 4
+Jumlah kata: 4
+
+Kalimat: 7 6 ? 1 1 2 9 ;
+Jumlah kata: 0
+
+Kalimat: 0 8 6 andi reget dua satu
+Jumlah kata: 4
+
+Kalimat: 0 6 & , 3 3
+Jumlah kata: 0
+
+Kalimat: ! nina 8 ! #
+Jumlah kata: 1
+
+Kalimat: % tiga 5 nina ! rida 7 2 ipsum 2
+Jumlah kata: 4
+
+Kalimat: rida 4 dolor , 0 dua
+Jumlah kata: 3
+
+Kalimat: 2 lorem ipsum & , ? satu 2
+Jumlah kata: 3
+
+Kalimat: dolor 1 ? ipsum 8 # kamaba
+Jumlah kata: 3
+
+Kalimat: 3 7 kamaba rida 5 6 3 dua budi lorem
+Jumlah kata: 5
+
+Kalimat: tiga 3 : andi ? 0 3 kamaba
+Jumlah kata: 3
+
+Kalimat: . sari 1 : 8
+Jumlah kata: 1
+
+Kalimat: ! @ 8 lorem @
+Jumlah kata: 1
+
+Kalimat: 7 5 4 0 4 9 2 ipsum kamaba
+Jumlah kata: 2
+
+Kalimat: 0 tiga dua 4 : sari 7
+Jumlah kata: 3
+
+Kalimat: ello rida lorem dolor ; 8 % ipsum kaka %
+Jumlah kata: 6
+
+Kalimat: nina kaka 8 1 #
+Jumlah kata: 2
+
+Kalimat: ipsum 5 satu 6 kamaba reget % . #
+Jumlah kata: 4
+
+Kalimat: andi & budi ; reget @ !
+Jumlah kata: 3
+
+Kalimat: , tiga # tiga reget
+Jumlah kata: 3
+
+Kalimat: satu ipsum 6 # 9 dua satu
+Jumlah kata: 4
+
+Kalimat: kamaba kamaba 7 lorem 2 ello rida 0 0 ?
+Jumlah kata: 5
+
+Kalimat: 0 reget 0 reget 9 #
+Jumlah kata: 2
+
+Kalimat: 7 1 2 dolor ? ! # 4 8
+Jumlah kata: 1
+
+Kalimat: 1 dolor 0 % & 0 ;
+Jumlah kata: 1
+
+Kalimat: & 8 0 kaka , 7 reget 5 : ,
+Jumlah kata: 2
+
+Kalimat: . reget 1 # 6 1 & :
+Jumlah kata: 1
+
+Kalimat: tiga # 3 6 4
+Jumlah kata: 1
+
+Kalimat: dolor sari 4 1 ello ,
+Jumlah kata: 3
+
+Kalimat: ; kaka & kamaba . : 5 0
+Jumlah kata: 2
+
+Kalimat: nina 7 ; 2 ? 2 5 3 tiga
+Jumlah kata: 2
+
+Kalimat: # # 2 ? ! & tiga budi 4
+Jumlah kata: 2
+
+Kalimat: 2 ? 9 ipsum &
+Jumlah kata: 1
+
+Kalimat: 4 . , @ dolor @ ipsum # @ 2
+Jumlah kata: 2
+
+Kalimat: , dua 6 : !
+Jumlah kata: 1
+
+Kalimat: . nina 0 # ! ipsum 9 . lorem satu
+Jumlah kata: 4
+
+Kalimat: 4 : nina 3 0 : 9 kaka
+Jumlah kata: 2
+
+Kalimat: 9 budi ; ipsum 6 4 kamaba 2 #
+Jumlah kata: 3
+
+Kalimat: budi nina , 9 8 & budi
+Jumlah kata: 3
+
+Kalimat: 7 sari ipsum tiga #
+Jumlah kata: 3
+
+Kalimat: ? 8 : 5 @ @ reget
+Jumlah kata: 1
+
+Kalimat: % 5 % budi & 3 : 7 # dolor
+Jumlah kata: 2
+
+Kalimat: lorem ello # . % ipsum rida ;
+Jumlah kata: 4
+
+Kalimat: nina nina 5 1 9 & dua
+Jumlah kata: 3
+
+Kalimat: % 1 1 0 5 ; : reget 8
+Jumlah kata: 1
+
+Kalimat: 6 : kaka ? 8 ello ? 8
+Jumlah kata: 2
+
+Kalimat: 8 & 3 ! ello ! . 8 %
+Jumlah kata: 1
+
+Kalimat: 8 4 8 budi : # # kamaba ;
+Jumlah kata: 2
+
+Kalimat: tiga & dolor ello ! lorem
+Jumlah kata: 4
+
+Kalimat: 0 1 sari 9 ello ! satu 1 : kaka
+Jumlah kata: 4
+
+Kalimat: kamaba . . ! & budi kamaba 1 & @
+Jumlah kata: 3
+
+Kalimat: , 6 2 budi kamaba @ 6 sari sari sari
+Jumlah kata: 5
+
+Kalimat: kamaba nina , : kamaba 1 2 !
+Jumlah kata: 3
+
+Kalimat: kaka 4 & : ; 6 sari 5
+Jumlah kata: 2
+
+Kalimat: kaka reget & nina 7 4 ? lorem ello &
+Jumlah kata: 5
+
+Kalimat: 2 kaka 7 7 ;
+Jumlah kata: 1
+
+Kalimat: 3 ? 2 dolor ! lorem @ ipsum
+Jumlah kata: 3
+
+Kalimat: ello ello 8 . 7 7 budi & nina !
+Jumlah kata: 4
+
+Kalimat: : ; 6 rida nina 0 ; ello tiga %
+Jumlah kata: 4
+
+Kalimat: : 0 2 rida tiga 3 nina
+Jumlah kata: 3
+
+Kalimat: kaka 9 ! 0 & 0
+Jumlah kata: 1
+
+Kalimat: rida & ! satu 2 & :
+Jumlah kata: 2
+
+Kalimat: @ ! budi ipsum 8
+Jumlah kata: 2
+
+Kalimat: & : 9 dolor 8
+Jumlah kata: 1
+
+Kalimat: 4 8 ! & #
+Jumlah kata: 0
+
+Kalimat: reget rida @ satu & .
+Jumlah kata: 3
+
+Kalimat: % 1 ? reget tiga
+Jumlah kata: 2
+
+Kalimat: 1 0 1 ! 0 sari
+Jumlah kata: 1
+
+Kalimat: 1 5 5 7 2 lorem
+Jumlah kata: 1
+
+Kalimat: rida 8 . kaka 2
+Jumlah kata: 2
+
+Kalimat: . 2 lorem 6 ipsum 6 0 :
+Jumlah kata: 2
+
+Kalimat: ? 3 5 2 & 5 . ello
+Jumlah kata: 1
+
+Kalimat: satu : rida ipsum 6 5 # lorem ?
+Jumlah kata: 4
+
+Kalimat: 4 # 7 & 1 4
+Jumlah kata: 0
+
+Kalimat: 5 tiga kaka ! ? % 0
+Jumlah kata: 2
+
+Kalimat: 5 4 % budi 4 satu 8
+Jumlah kata: 2
+
+Kalimat: satu , andi 7 @
+Jumlah kata: 2
+
+Kalimat: rida 4 kamaba % &
+Jumlah kata: 2
+
+Kalimat: rida 4 9 kamaba % # sari sari
+Jumlah kata: 4
+
+Kalimat: # & nina ! 9 9 andi ! % ,
+Jumlah kata: 2
+
+Kalimat: 6 , kaka . 2 andi kamaba sari
+Jumlah kata: 4
+
+Kalimat: . rida 5 dolor 5 tiga ipsum 2 satu
+Jumlah kata: 5
+
+Kalimat: sari kaka 0 . &
+Jumlah kata: 2
+
+Kalimat: % dua . # # %
+Jumlah kata: 1
+
+Kalimat: 2 % 0 dolor kamaba 6 lorem ; kamaba satu
+Jumlah kata: 5
+
+Kalimat: 6 . ? 8 5
+Jumlah kata: 0
+
+Kalimat: 9 kaka ? # ello kaka , nina ?
+Jumlah kata: 4
+
+Kalimat: : 0 % & kamaba 8
+Jumlah kata: 1
+
+Kalimat: % kamaba lorem 7 . . % % &
+Jumlah kata: 2
+
+Kalimat: % , 9 6 9 2 ? & 7
+Jumlah kata: 0
+
+Kalimat: ; ; ; 9 ello
+Jumlah kata: 1
+
+Kalimat: 1 , ; 6 3 7
+Jumlah kata: 0
+
+Kalimat: ? kamaba & satu satu & lorem
+Jumlah kata: 4
+
+Kalimat: nina # 1 ? kaka
+Jumlah kata: 2
+
+Kalimat: rida dolor ! 6 0
+Jumlah kata: 2
+
+Kalimat: 4 nina nina : andi 3 5
+Jumlah kata: 3
+
+Kalimat: @ @ 6 @ reget
+Jumlah kata: 1
+
+Kalimat: budi kamaba 7 reget , : ? kaka andi ;
+Jumlah kata: 5
+
+Kalimat: 2 dolor 3 ; , 6 , 1 : andi
+Jumlah kata: 2
+
+Kalimat: 1 tiga tiga 4 6 @ kaka tiga 0
+Jumlah kata: 4
+
+Kalimat: 0 3 reget 1 tiga 5 0
+Jumlah kata: 2
+
+Kalimat: # . budi ! andi
+Jumlah kata: 2
+
+Kalimat: 7 2 9 5 : 9
+Jumlah kata: 0
+
+Kalimat: 2 0 7 ello ,
+Jumlah kata: 1
+
+Kalimat: . ; dolor lorem 5 . kamaba
+Jumlah kata: 3
+
+Kalimat: 0 4 & . tiga 1 8 6 ipsum
+Jumlah kata: 2
+
+Kalimat: # ; # rida ; lorem & 2 !
+Jumlah kata: 2
+
+Kalimat: # & 1 8 #
+Jumlah kata: 0
+
+Kalimat: 6 rida dolor 5 2 8 budi
+Jumlah kata: 3
+
+Kalimat: 0 ? # 0 ello 7 ? % ? sari
+Jumlah kata: 2
+
+Kalimat: 2 9 2 budi 9 kaka ello & satu :
+Jumlah kata: 4
+
+Kalimat: sari 3 satu ; ?
+Jumlah kata: 2
+
+Kalimat: . 1 7 andi ipsum : 4 sari
+Jumlah kata: 3
+
+Kalimat: % tiga # . ? ! % 8 @ sari
+Jumlah kata: 2
+
+Kalimat: ! 1 @ ello kaka 4 & ;
+Jumlah kata: 2
+
+Kalimat: @ sari 6 ! tiga
+Jumlah kata: 2
+
+Kalimat: nina 7 nina 4 ,
+Jumlah kata: 2
+
+Kalimat: rida ipsum ; kaka dolor
+Jumlah kata: 4
+
+Kalimat: 4 5 ? 5 andi
+Jumlah kata: 1
+
+Kalimat: % & 6 3 7 .
+Jumlah kata: 0
+
+Kalimat: 1 ; satu @ 7 reget !
+Jumlah kata: 2
+
+Kalimat: . 5 budi % 3 sari 6 dolor ; rida
+Jumlah kata: 4
+
+Kalimat: , . 6 : % 5 ! : ello 4
+Jumlah kata: 1
+
+Kalimat: ? 0 lorem @ 1 1
+Jumlah kata: 1
+
+Kalimat: nina budi kaka nina @ 1 ;
+Jumlah kata: 4
+
+Kalimat: reget ello . # 7 ? 5 rida 7 rida
+Jumlah kata: 4
+
+Kalimat: , ello 9 @ ! 7 %
+Jumlah kata: 1
+
+Kalimat: reget , nina reget & andi ? andi sari
+Jumlah kata: 6
+
+Kalimat: ipsum ello kaka tiga ? 1
+Jumlah kata: 4
+
+Kalimat: & sari 1 ; 9 ello & : kamaba
+Jumlah kata: 3
+
+Kalimat: ! ! ! . 5 1 rida
+Jumlah kata: 1
+
+Kalimat: 5 0 & rida 0 kamaba
+Jumlah kata: 2
+
+Kalimat: 8 0 satu 8 ? 6 @
+Jumlah kata: 1
+
+Kalimat: ; : dua 5 6 ! . 7 lorem @
+Jumlah kata: 2
+
+Kalimat: ; 3 2 ello 8 dolor : 3 6 satu
+Jumlah kata: 3
+
+Kalimat: ipsum 2 rida % 9 5 1 ipsum reget reget
+Jumlah kata: 5
+
+Kalimat: 0 % # , tiga 3
+Jumlah kata: 1
+
+Kalimat: satu nina lorem 4 6 0 ipsum
+Jumlah kata: 4
+
+Kalimat: 3 ; reget & ello # rida 8 kamaba @
+Jumlah kata: 4
+
+Kalimat: @ andi satu lorem @ @ # dolor andi 2
+Jumlah kata: 5
+
+Kalimat: kamaba ; dua % % 3 9 andi
+Jumlah kata: 3
+
+Kalimat: 3 : dua ? satu satu 3 kamaba
+Jumlah kata: 4
+
+Kalimat: ! 7 5 8 !
+Jumlah kata: 0
+
+Kalimat: @ 4 9 7 % andi 4 1 0
+Jumlah kata: 1
+
+Kalimat: 4 8 & dua sari 9 andi
+Jumlah kata: 3
+
+Kalimat: sari . ! kamaba % rida 9 satu % lorem
+Jumlah kata: 5
+
+Kalimat: budi 9 dolor ipsum lorem lorem tiga % ello 7
+Jumlah kata: 7
+
+Kalimat: , kaka ! ! 9 @
+Jumlah kata: 1
+
+Kalimat: 3 6 5 4 @ ! 0 budi
+Jumlah kata: 1
+
+Kalimat: tiga ? ! ? 7 tiga ? ipsum nina
+Jumlah kata: 4
+
+Kalimat: 7 7 tiga ; ello 0
+Jumlah kata: 2
+
+Kalimat: , 8 5 ello 8 9
+Jumlah kata: 1
+
+Kalimat: tiga # dolor 4 kamaba : 0
+Jumlah kata: 3
+
+Kalimat: # andi dolor 2 & 0 ello 7 5 0
+Jumlah kata: 3
+
+Kalimat: : ! ? dua ipsum
+Jumlah kata: 2
+
+Kalimat: lorem 0 tiga ? ! 2 # ipsum
+Jumlah kata: 3
+
+Kalimat: nina reget 3 5 2 9 8 reget satu budi
+Jumlah kata: 5
+
+Kalimat: ello andi ; 1 2 6 5
+Jumlah kata: 2
+
+Kalimat: ! 6 @ : 7 satu
+Jumlah kata: 1
+
+Kalimat: 1 . # 9 7 6 8
+Jumlah kata: 0
+
+Kalimat: rida 5 7 ! ! reget ;
+Jumlah kata: 2
+
+Kalimat: ? tiga 0 kamaba , ello
+Jumlah kata: 3
+
+Kalimat: 3 ; . & ? 4 sari tiga ; ;
+Jumlah kata: 2
+
+Kalimat: : 7 dolor 8 ? : 7 ! # 3
+Jumlah kata: 1
+
+Kalimat: ipsum 5 0 & 5 6 9 1
+Jumlah kata: 1
+
+Kalimat: & nina ! 1 8 #
+Jumlah kata: 1
+
+Kalimat: 3 lorem dua 1 9 3 kamaba , 7 ?
+Jumlah kata: 3
+
+Kalimat: # # 8 budi 7 7 : 5 dua
+Jumlah kata: 2
+
+Kalimat: 1 kaka 0 . , ipsum ! rida ello
+Jumlah kata: 4
+
+Kalimat: & satu 8 : & dua
+Jumlah kata: 2
+
+Kalimat: lorem satu dolor 4 6
+Jumlah kata: 3
+
+Kalimat: % 5 9 4 tiga
+Jumlah kata: 1
+
+Kalimat: # lorem 9 9 kaka 8 4 3
+Jumlah kata: 2
+
+Kalimat: sari 1 ! 7 , 2 % @ satu !
+Jumlah kata: 2
+
+Kalimat: 9 & 5 # kamaba ello ! 7 ? #
+Jumlah kata: 2
+
+Kalimat: & andi 9 5 nina andi tiga
+Jumlah kata: 4
+
+Kalimat: 7 ; , ! : 1 6 !
+Jumlah kata: 0
+
+Kalimat: kamaba nina ; 3 4 0 kamaba dolor
+Jumlah kata: 4
+
+Kalimat: & # tiga rida ? ipsum
+Jumlah kata: 3
+
+Kalimat: & & tiga . satu 4 andi ello lorem ,
+Jumlah kata: 5
+
+Kalimat: 5 tiga ipsum ipsum 8 9 @
+Jumlah kata: 3
+
+Kalimat: 4 9 @ & ; ipsum
+Jumlah kata: 1
+
+Kalimat: & 0 ! , 9 2 kamaba 6 @ reget
+Jumlah kata: 2
+
+Kalimat: ipsum % ? 9 6 1 @ 0
+Jumlah kata: 1
+
+Kalimat: ! 3 ; 5 1
+Jumlah kata: 0
+
+Kalimat: # ? 0 2 4
+Jumlah kata: 0
+
+Kalimat: rida : 3 & 4 : , rida . ,
+Jumlah kata: 2
+
+Kalimat: satu nina , rida dua ? 9
+Jumlah kata: 4
+
+Kalimat: & ! , sari : % 8 4
+Jumlah kata: 1
+
+Kalimat: , # # ? & dua : 2 andi reget
+Jumlah kata: 3
+
+Kalimat: . 2 : ? ipsum
+Jumlah kata: 1
+
+Kalimat: ? , ? tiga % . ipsum ; 1 2
+Jumlah kata: 2
+
+Kalimat: ello 5 % @ 1
+Jumlah kata: 1
+
+Kalimat: ; kamaba kamaba 6 satu 8 8 0 kamaba
+Jumlah kata: 4
+
+Kalimat: # tiga sari 0 andi 0 satu 8 lorem
+Jumlah kata: 5
+
+Kalimat: 5 . 2 9 9 reget % 2 , ;
+Jumlah kata: 1
+
+Kalimat: & 4 ipsum , #
+Jumlah kata: 1
+
+Kalimat: 3 5 3 ; ipsum
+Jumlah kata: 1
+
+Kalimat: & % ; 7 ipsum
+Jumlah kata: 1
+
+Kalimat: budi ipsum 7 , tiga 0 nina
+Jumlah kata: 4
+
+Kalimat: ello ? 4 rida ;
+Jumlah kata: 2
+
+Kalimat: dua 4 : tiga rida
+Jumlah kata: 3
+
+Kalimat: kaka 9 ? 4 6
+Jumlah kata: 1
+
+Kalimat: 9 & 8 2 % 6
+Jumlah kata: 0
+
+Kalimat: kaka reget 5 % ; 9 4
+Jumlah kata: 2
+
+Kalimat: 2 3 tiga ! 4
+Jumlah kata: 1
+
+Kalimat: 6 kamaba 5 ; tiga
+Jumlah kata: 2
+
+Kalimat: & 5 3 @ 6
+Jumlah kata: 0
+
+Kalimat: 9 ? : 7 satu , 1 1 @ nina
+Jumlah kata: 2
+
+Kalimat: reget 6 reget kaka : 5 . lorem 5
+Jumlah kata: 4
+
+Kalimat: # # kamaba & 5 andi
+Jumlah kata: 2
+
+Kalimat: 6 0 ello satu satu ; #
+Jumlah kata: 3
+
+Kalimat: # 2 5 satu 5 % 6 kamaba
+Jumlah kata: 2
+
+Kalimat: & 9 9 8 :
+Jumlah kata: 0
+
+Kalimat: . & 2 2 % 5 ello
+Jumlah kata: 1
+
+Kalimat: ! reget kaka 7 5 6 &
+Jumlah kata: 2
+
+Kalimat: 4 4 6 , budi # , ;
+Jumlah kata: 1
+
+Kalimat: 0 6 4 dua dua ; nina lorem !
+Jumlah kata: 4
+
+Kalimat: 3 # 5 % 0 8
+Jumlah kata: 0
+
+Kalimat: 3 ! ! tiga 9 2 6 sari budi
+Jumlah kata: 3
+
+Kalimat: budi 2 dolor nina dua rida
+Jumlah kata: 5
+
+Kalimat: budi , 3 dolor lorem 3
+Jumlah kata: 3
+
+Kalimat: 5 andi 3 3 2 lorem
+Jumlah kata: 2
+
+Kalimat: 6 andi lorem 7 ? 0
+Jumlah kata: 2
+
+Kalimat: ? 3 budi ? 1 andi 9 ;
+Jumlah kata: 2
+
+Kalimat: , dua 0 ello @ rida
+Jumlah kata: 3
+
+Kalimat: ipsum 6 6 lorem 4 0 tiga 5
+Jumlah kata: 3
+
+Kalimat: 3 kaka rida 7 ; & ello 3 0 ipsum
+Jumlah kata: 4
+
+Kalimat: 1 ! ! satu rida 5 1 5 9
+Jumlah kata: 2
+
+Kalimat: tiga ? ello 2 , 8 & %
+Jumlah kata: 2
+
+Kalimat: 5 1 ; kamaba 4 ipsum kamaba budi @
+Jumlah kata: 4
+
+Kalimat: 6 ? @ ello 5 8
+Jumlah kata: 1
+
+Kalimat: @ ; sari rida 9 ipsum dua 4
+Jumlah kata: 4
+
+Kalimat: . 0 3 9 0 % 2 7 ,
+Jumlah kata: 0
+
+Kalimat: budi budi ; andi 3 satu @
+Jumlah kata: 4
+
+Kalimat: lorem 6 9 lorem 4 # @ ?
+Jumlah kata: 2
+
+Kalimat: kamaba # 9 4 nina ?
+Jumlah kata: 2
+
+Kalimat: 4 2 rida % 9 2 & ; %
+Jumlah kata: 1
+
+Kalimat: 8 dua , . 3 9 budi 0 6 4
+Jumlah kata: 2
+
+Kalimat: dolor % 5 ipsum , ? 2 5 2 satu
+Jumlah kata: 3
+
+Kalimat: % kaka sari # , rida
+Jumlah kata: 3
+
+Kalimat: ipsum sari 4 4 7
+Jumlah kata: 2
+
+Kalimat: 7 @ ! 7 : 7
+Jumlah kata: 0
+
+Kalimat: 1 8 4 4 reget ipsum ; @
+Jumlah kata: 2
+
+Kalimat: 5 1 & satu 0 2 dua & 4 nina
+Jumlah kata: 3
+
+Kalimat: 6 @ & kamaba 1 # ?
+Jumlah kata: 1
+
+Kalimat: : kaka 2 7 , ipsum tiga dua 4
+Jumlah kata: 4
+
+Kalimat: @ , % : , 8 lorem
+Jumlah kata: 1
+
+Kalimat: 5 8 . ; 1 dolor
+Jumlah kata: 1
+
+Kalimat: kaka 5 satu , % 2 ipsum % ! 9
+Jumlah kata: 3
+
+Kalimat: . : : andi & % 9
+Jumlah kata: 1
+
+Kalimat: 4 9 8 dolor & lorem
+Jumlah kata: 2
+
+Kalimat: ; : . 0 , dolor
+Jumlah kata: 1
+
+Kalimat: 4 7 nina 3 ipsum 8 andi
+Jumlah kata: 3
+
+Kalimat: kamaba 9 tiga 5 0 4 sari
+Jumlah kata: 3
+
+Kalimat: kamaba andi kaka # : %
+Jumlah kata: 3
+
+Kalimat: rida nina : 7 kamaba ello
+Jumlah kata: 4
+
+Kalimat: 1 ; dua 7 dolor ello 9 reget 4 5
+Jumlah kata: 4
+
+Kalimat: dua 8 3 1 3 6 nina , @ ello
+Jumlah kata: 3
+
+Kalimat: 4 @ 4 budi 6 : 6 6 1
+Jumlah kata: 1
+
+Kalimat: 8 : , & 6 % !
+Jumlah kata: 0
+
+Kalimat: , sari ! 3 7 0 dolor
+Jumlah kata: 2
+
+Kalimat: @ ipsum kamaba 2 kaka
+Jumlah kata: 3
+
+Kalimat: 2 . ipsum 0 kamaba %
+Jumlah kata: 2
+
+Kalimat: dua dolor kamaba ipsum ipsum
+Jumlah kata: 5
+
+Kalimat: , ipsum 3 ? ? 1 9 rida ipsum ;
+Jumlah kata: 3
+
+Kalimat: 6 0 % 1 @ sari
+Jumlah kata: 1
+
+Kalimat: dolor dua sari kamaba @ satu kamaba .
+Jumlah kata: 6
+
+Kalimat: , lorem 3 lorem # 6 @ % , !
+Jumlah kata: 2
+
+Kalimat: 5 0 ? ipsum 4 0 9 ?
+Jumlah kata: 1
+
+Kalimat: 7 @ dolor tiga kamaba nina 7 & dua
+Jumlah kata: 5
+
+Kalimat: rida ! reget nina satu . ; 8 nina 5
+Jumlah kata: 5
+
+Kalimat: : 7 rida ? kaka dolor andi ello reget 5
+Jumlah kata: 6
+
+Kalimat: 3 ! & satu 4
+Jumlah kata: 1
+
+Kalimat: tiga @ nina reget dua ; sari 1
+Jumlah kata: 5
+
+Kalimat: kamaba dua 2 6 ello , nina dolor kaka 7
+Jumlah kata: 6
+
+Kalimat: & rida andi reget ipsum ,
+Jumlah kata: 4
+
+Kalimat: @ 1 ; . rida 4 lorem
+Jumlah kata: 2
+
+Kalimat: 1 : 3 budi 6 ?
+Jumlah kata: 1
+
+Kalimat: @ ! ipsum sari rida budi
+Jumlah kata: 4
+
+Kalimat: kamaba nina 6 @ lorem 8 nina ;
+Jumlah kata: 4
+
+Kalimat: & % , ; 8 7
+Jumlah kata: 0
+
+Kalimat: 4 @ ; # rida 7
+Jumlah kata: 1
+
+Kalimat: budi 5 0 2 9 tiga , 1 kaka tiga
+Jumlah kata: 4
+
+Kalimat: ; % : 9 7 nina
+Jumlah kata: 1
+
+Kalimat: andi ello ipsum ? . reget rida 8 satu
+Jumlah kata: 6
+
+Kalimat: ! 7 nina dolor budi # 3
+Jumlah kata: 3
+
+Kalimat: : ello : 0 3
+Jumlah kata: 1
+
+Kalimat: 4 kamaba 9 ! 0 6 ! 8
+Jumlah kata: 1
+
+Kalimat: 3 dolor 8 & 7
+Jumlah kata: 1
+
+Kalimat: 0 budi ? ! 2 ello
+Jumlah kata: 2
+
+Kalimat: @ 8 tiga % & ?
+Jumlah kata: 1
+
+Kalimat: 6 ? nina 2 # rida 7 satu sari
+Jumlah kata: 4
+
+Kalimat: 2 3 ? dolor . 8
+Jumlah kata: 1
+
+Kalimat: 0 & 4 8 , 4 ,
+Jumlah kata: 0
+
+Kalimat: ? ! rida sari sari sari & , @
+Jumlah kata: 4
+
+Kalimat: : # & 7 lorem 3 # 1 3
+Jumlah kata: 1
+
+Kalimat: & 8 7 3 1 4 ello 3 dolor 4
+Jumlah kata: 2
+
+Kalimat: 1 ipsum sari % & 0 dua
+Jumlah kata: 3
+
+Kalimat: 2 ipsum 1 lorem reget 5 % %
+Jumlah kata: 3
+
+Kalimat: ! andi 7 8 budi lorem # , ; ello
+Jumlah kata: 4
+
+Kalimat: dolor dolor 5 0 3 ! nina 6
+Jumlah kata: 3
+
+Kalimat: tiga & @ & # 7 . 4
+Jumlah kata: 1
+
+Kalimat: : andi ; tiga 5 kaka reget 9
+Jumlah kata: 4
+
+Kalimat: ipsum 4 6 8 9 ,
+Jumlah kata: 1
+
+Kalimat: 3 0 tiga nina 7 8 3 9 5 !
+Jumlah kata: 2
+
+Kalimat: 5 dua 0 1 sari 3 %
+Jumlah kata: 2
+
+Kalimat: kaka ipsum 9 5 6
+Jumlah kata: 2
+
+Kalimat: dua nina satu rida % ello @
+Jumlah kata: 5
+
+Kalimat: sari rida ; tiga satu ,
+Jumlah kata: 4
+
+Kalimat: ? 3 # & kaka kamaba ! ello 4
+Jumlah kata: 3
+
+Kalimat: 3 reget @ dua dolor budi satu
+Jumlah kata: 5
+
+Kalimat: 7 kamaba andi sari satu @ 0 .
+Jumlah kata: 4
+
+Kalimat: rida ; ? kamaba 4 @ 9 ,
+Jumlah kata: 2
+
+Kalimat: 5 tiga % 2 !
+Jumlah kata: 1
+
+Kalimat: , nina ello 2 dolor reget reget dolor 6
+Jumlah kata: 6
+
+Kalimat: 8 3 dolor . 5 dua 1 3
+Jumlah kata: 2
+
+Kalimat: lorem reget 7 lorem ! nina
+Jumlah kata: 4
+
+Kalimat: dolor dolor 8 ! ? , 2 reget
+Jumlah kata: 3
+
+Kalimat: sari satu 7 ipsum , % ? 8 7 :
+Jumlah kata: 3
+
+Kalimat: & ? 4 dua dolor , 1 sari reget
+Jumlah kata: 4
+
+Kalimat: ello 1 2 kamaba lorem 1 4 dua 4 5
+Jumlah kata: 4
+
+Kalimat: ? : , 6 9 lorem , rida satu @
+Jumlah kata: 3
+
+Kalimat: # 4 tiga 1 kaka 5 ; . %
+Jumlah kata: 2
+
+Kalimat: ello & 1 andi @ 1 dua lorem 6
+Jumlah kata: 4
+
+Kalimat: satu 5 0 & ! sari # lorem ?
+Jumlah kata: 3
+
+Kalimat: 9 4 7 & & 7 2 sari
+Jumlah kata: 1
+
+Kalimat: ? ello sari 5 4 ?
+Jumlah kata: 2
+
+Kalimat: 3 dolor ? ; 3 ipsum
+Jumlah kata: 2
+
+Kalimat: : dolor budi 8 kaka 5 4 dolor ; ?
+Jumlah kata: 4
+
+Kalimat: sari budi 8 % 6 dolor @ ! nina
+Jumlah kata: 4
+
+Kalimat: 8 andi 9 ? 4 reget tiga
+Jumlah kata: 3
+
+Kalimat: 0 3 : kaka 8 9 1 #
+Jumlah kata: 1
+
+Kalimat: 2 ? ? kaka rida 9 # dua
+Jumlah kata: 3
+
+Kalimat: . budi 9 satu 3
+Jumlah kata: 2
+
+Kalimat: satu . dua rida 1 . # 3 0
+Jumlah kata: 3
+
+Kalimat: # lorem % , reget
+Jumlah kata: 2
+
+Kalimat: dolor kamaba . 2 andi @ lorem 9 7
+Jumlah kata: 4
+
+Kalimat: tiga 7 0 3 satu 9 & 8
+Jumlah kata: 2
+
+Kalimat: 4 . andi tiga lorem
+Jumlah kata: 3
+
+Kalimat: kaka 5 4 8 , ? :
+Jumlah kata: 1
+
+Kalimat: satu lorem ; # 5 budi @ 1
+Jumlah kata: 3
+
+Kalimat: 0 reget kaka # reget sari rida 0
+Jumlah kata: 5
+
+Kalimat: . 7 rida 5 lorem reget tiga 6
+Jumlah kata: 4
+
+Kalimat: @ rida , 1 @ ipsum 9 ,
+Jumlah kata: 2
+
+Kalimat: rida dolor 6 . lorem
+Jumlah kata: 3
+
+Kalimat: reget ! kamaba 0 , 9 1 dua : &
+Jumlah kata: 3
+
+Kalimat: 5 7 5 3 4 % ello
+Jumlah kata: 1
+
+Kalimat: dua sari kaka dolor # sari 6 4
+Jumlah kata: 5
+
+Kalimat: 3 4 % : 8 8 budi budi 0
+Jumlah kata: 2
+
+Kalimat: 4 7 budi 3 # @ @ rida budi satu
+Jumlah kata: 4
+
+Kalimat: ! 1 dua sari % satu 8 nina ? ipsum
+Jumlah kata: 5
+
+Kalimat: lorem & . budi budi kaka 0
+Jumlah kata: 4
+
+Kalimat: kaka ; nina & : dua
+Jumlah kata: 3
+
+Kalimat: ello 3 ? ! satu
+Jumlah kata: 2
+
+Kalimat: & kaka rida ? : ? 9
+Jumlah kata: 2
+
+Kalimat: 5 5 8 nina nina 7 & ! 2 :
+Jumlah kata: 2
+
+Kalimat: ! reget kamaba 7 3 2 ; tiga 6
+Jumlah kata: 3
+
+Kalimat: rida reget % ipsum 7 tiga ! % 7 #
+Jumlah kata: 4
+
+Kalimat: dua sari ? 8 andi @ #
+Jumlah kata: 3
+
+Kalimat: % andi 6 ipsum lorem rida . ,
+Jumlah kata: 4
+
+Kalimat: . budi nina dua lorem rida dolor .
+Jumlah kata: 6
+
+Kalimat: 8 dolor , 4 & 4 rida
+Jumlah kata: 2
+
+Kalimat: , reget 0 & rida 7 satu 2 5 ello
+Jumlah kata: 4
+
+Kalimat: dua @ nina satu satu , %
+Jumlah kata: 4
+
+Kalimat: 5 9 2 9 tiga tiga 3 %
+Jumlah kata: 2
+
+Kalimat: @ @ budi kaka # & 7 5
+Jumlah kata: 2
+
+Kalimat: ! dua nina ? . 3 rida % kaka 6
+Jumlah kata: 4
+
+Kalimat: rida 1 9 4 : kaka ,
+Jumlah kata: 2
+
+Kalimat: 3 2 dolor 1 6 % 3 % !
+Jumlah kata: 1
+
+Kalimat: 5 6 9 andi ! @ 9 sari
+Jumlah kata: 2
+
+Kalimat: ello @ ; @ 3 @ 0 8 % :
+Jumlah kata: 1
+
+Kalimat: 9 8 kaka tiga 5 ; % ello
+Jumlah kata: 3
+
+Kalimat: 5 kamaba reget , 8 & 2
+Jumlah kata: 2
+
+Kalimat: # & 9 8 9 :
+Jumlah kata: 0
+
+Kalimat: & 3 budi ello , satu @ ? budi 4
+Jumlah kata: 4
+
+Kalimat: 7 tiga 8 andi 7 4 %
+Jumlah kata: 2
+
+Kalimat: 1 7 0 7 ello satu
+Jumlah kata: 2
+
+Kalimat: % 3 % % 6
+Jumlah kata: 0
+
+Kalimat: satu 5 : 8 lorem
+Jumlah kata: 2
+
+Kalimat: 0 , @ ? dua , rida
+Jumlah kata: 2
+
+Kalimat: : . reget ! &
+Jumlah kata: 1
+
+Kalimat: kamaba 1 dolor dolor 2 , 8
+Jumlah kata: 3
+
+Kalimat: 9 8 ; , 4 lorem ?
+Jumlah kata: 1
+
+Kalimat: 7 7 budi 2 6 : lorem
+Jumlah kata: 2
+
+Kalimat: dua budi ! lorem 8 : & kaka budi 3
+Jumlah kata: 5
+
+Kalimat: # dua dolor 6 satu
+Jumlah kata: 3
+
+Kalimat: nina 6 reget ello dua % 6 .
+Jumlah kata: 4
+
+Kalimat: # sari : 1 . andi
+Jumlah kata: 2
+
+Kalimat: 7 kamaba 9 & lorem 8 4
+Jumlah kata: 2
+
+Kalimat: dolor 1 ; sari #
+Jumlah kata: 2
+
+Kalimat: dua 7 ello reget reget tiga ; kaka andi 8
+Jumlah kata: 7
+
+Kalimat: % 5 nina 1 kaka 5
+Jumlah kata: 2
+
+Kalimat: satu 9 andi 2 4
+Jumlah kata: 2
+
+Kalimat: rida 7 1 @ ?
+Jumlah kata: 1
+
+Kalimat: 6 % 6 rida , ! ipsum
+Jumlah kata: 2
+
+Kalimat: % % 8 7 @ 6 . kamaba ,
+Jumlah kata: 1
+
+Kalimat: lorem reget ello sari : kamaba 4
+Jumlah kata: 5
+
+Kalimat: # : dolor ; 8 4 budi , 1 ?
+Jumlah kata: 2
+
+Kalimat: nina lorem 3 rida ;
+Jumlah kata: 3
+
+Kalimat: 6 2 ipsum ; @ 9 satu tiga
+Jumlah kata: 3
+
+Kalimat: 2 @ @ , # ! tiga 9 2 ;
+Jumlah kata: 1
+
+Kalimat: lorem . 7 kamaba 5
+Jumlah kata: 2
+
+Kalimat: % 4 dolor nina 4 !
+Jumlah kata: 2
+
+Kalimat: 1 ! 4 6 5 ; 8 :
+Jumlah kata: 0
+
+Kalimat: 2 kaka ello satu ! , rida & ! reget
+Jumlah kata: 5
+
+Kalimat: 5 # : nina ? ?
+Jumlah kata: 1
+
+Kalimat: satu rida budi nina ;
+Jumlah kata: 4
+
+Kalimat: 7 1 6 7 nina 3 9 4 sari !
+Jumlah kata: 2
+
+Kalimat: # 1 1 : rida 4 %
+Jumlah kata: 1
+
+Kalimat: dolor 6 : 1 5 2 ,
+Jumlah kata: 1
+
+Kalimat: % kamaba # , 5 0 dolor 2
+Jumlah kata: 2
+
+Kalimat: ! rida rida nina : . 3 3
+Jumlah kata: 3
+
+Kalimat: 0 3 4 kamaba : 3 . ; ello
+Jumlah kata: 2
+
+Kalimat: 4 dua 2 3 8 9 :
+Jumlah kata: 1
+
+Kalimat: 3 8 ? 6 7
+Jumlah kata: 0
+
+Kalimat: : andi ; & ? 4
+Jumlah kata: 1
+
+Kalimat: % @ : 4 rida , rida
+Jumlah kata: 2
+
+Kalimat: ! lorem kamaba . lorem # ipsum
+Jumlah kata: 4
+
+Kalimat: ipsum ; kamaba 7 0 & 2 tiga
+Jumlah kata: 3
+
+Kalimat: budi 6 rida 4 rida
+Jumlah kata: 3
+
+Kalimat: rida kaka tiga 2 & 9 dolor ; ?
+Jumlah kata: 4
+
+Kalimat: ello 7 % ? sari , # & andi ,
+Jumlah kata: 3
+
+Kalimat: # dua kamaba 4 9 9
+Jumlah kata: 2
+
+Kalimat: ? andi nina ? 1 rida 4
+Jumlah kata: 3
+
+Kalimat: nina 5 ello 0 5
+Jumlah kata: 2
+
+Kalimat: satu , 3 dolor ; dolor & rida % 4
+Jumlah kata: 4
+
+Kalimat: ; , , andi reget budi
+Jumlah kata: 3
+
+Kalimat: kamaba ; . 6 % ! dua 4
+Jumlah kata: 2
+
+Kalimat: & ello 1 @ sari % #
+Jumlah kata: 2
+
+Kalimat: % 7 . dolor 7
+Jumlah kata: 1
+
+Kalimat: dolor ! tiga @ 9 satu dua
+Jumlah kata: 4
+
+Kalimat: rida sari 8 % %
+Jumlah kata: 2
+
+Kalimat: 1 dua : 0 dua , 7
+Jumlah kata: 2
+
+Kalimat: : rida . 0 @ andi : ? 9
+Jumlah kata: 2
+
+Kalimat: 6 & ello budi %
+Jumlah kata: 2
+
+Kalimat: nina . ello 4 8 6 7 @ ? 1
+Jumlah kata: 2
+
+Kalimat: ? ; satu ! 9 3 3 6 : .
+Jumlah kata: 1
+
+Kalimat: # ? 1 nina 7 3
+Jumlah kata: 1
+
+Kalimat: 6 1 # 8 sari : : .
+Jumlah kata: 1
+
+Kalimat: 2 % 0 , , ;
+Jumlah kata: 0
+
+Kalimat: 6 tiga . 5 ,
+Jumlah kata: 1
+
+Kalimat: : & dolor andi & &
+Jumlah kata: 2
+
+Kalimat: dolor 1 2 ; 6 .
+Jumlah kata: 1
+
+Kalimat: ello ipsum tiga andi 2 . budi
+Jumlah kata: 5
+
+Kalimat: andi ; dua dua : sari ;
+Jumlah kata: 4
+
+Kalimat: 5 ! rida lorem . ? satu 6 ; 7
+Jumlah kata: 3
+
+Kalimat: # rida tiga ello 4 & 7 :
+Jumlah kata: 3
+
+Kalimat: rida 5 3 3 2 andi #
+Jumlah kata: 2
+
+Kalimat: rida lorem , dolor , ! 5 !
+Jumlah kata: 3
+
+Kalimat: lorem kamaba # 5 budi % % lorem 8
+Jumlah kata: 4
+
+Kalimat: nina % ! 6 lorem 0
+Jumlah kata: 2
+
+Kalimat: budi ? 9 reget dua #
+Jumlah kata: 3
+
+Kalimat: ? 0 1 dolor # 0 4 1 kaka 5
+Jumlah kata: 2
+
+Kalimat: sari andi 7 : . 3 tiga
+Jumlah kata: 3
+
+Kalimat: 7 reget dua 2 , 2 kaka ?
+Jumlah kata: 3
+
+Kalimat: kamaba 2 3 ipsum 9 8 tiga kamaba , #
+Jumlah kata: 4
+
+Kalimat: : 8 1 & budi 6
+Jumlah kata: 1
+
+Kalimat: kamaba 3 ! & ipsum 2 #
+Jumlah kata: 2
+
+Kalimat: tiga % kamaba lorem tiga ? 4 ipsum .
+Jumlah kata: 5
+
+Kalimat: : 6 kamaba 3 nina reget
+Jumlah kata: 3
+
+Kalimat: 3 satu reget , rida . 3 4 lorem
+Jumlah kata: 4
+
+Kalimat: rida reget dolor # kaka 4 2 9
+Jumlah kata: 4
+
+Kalimat: 3 rida % sari ! 3 7
+Jumlah kata: 2
+
+Kalimat: @ 6 3 % @ reget sari 0 budi
+Jumlah kata: 3
+
+Kalimat: @ lorem lorem ipsum andi 1 dua 8
+Jumlah kata: 5
+
+Kalimat: kaka dua % . ! ? @
+Jumlah kata: 2
+
+Kalimat: ; 8 dua kamaba % dolor
+Jumlah kata: 3
+
+Kalimat: kaka 7 tiga 5 2
+Jumlah kata: 2
+
+Kalimat: 9 satu ! lorem : . % ? &
+Jumlah kata: 2
+
+Kalimat: andi # nina : dua rida : 2 4
+Jumlah kata: 4
+
+Kalimat: : dua ipsum 7 0 dolor dua 2
+Jumlah kata: 4
+
+Kalimat: & ? ! 2 . 9 1 ello 9 5
+Jumlah kata: 1
+
+Kalimat: sari 9 7 3 6 9 sari
+Jumlah kata: 2
+
+Kalimat: 7 2 6 ? @ 0
+Jumlah kata: 0
+
+Kalimat: sari @ 3 1 9 5 : kaka : dua
+Jumlah kata: 3
+
+Kalimat: # 1 satu 9 , ? . 5 @
+Jumlah kata: 1
+
+Kalimat: 2 3 7 6 0 satu lorem ,
+Jumlah kata: 2
+
+Kalimat: 1 1 5 ello sari ipsum # 0 9 satu
+Jumlah kata: 4
+
+Kalimat: ; . & # kamaba
+Jumlah kata: 1
+
+Kalimat: ello ? kaka 6 rida 7 0
+Jumlah kata: 3
+
+Kalimat: ; ; 8 0 dua 0 .
+Jumlah kata: 1
+
+Kalimat: dolor 0 # 9 # 6 dua . 1 dolor
+Jumlah kata: 3
+
+Kalimat: rida 8 . 1 satu 6 3
+Jumlah kata: 2
+
+Kalimat: ; nina ipsum tiga ; lorem
+Jumlah kata: 4
+
+Kalimat: 7 & ipsum 4 6 % tiga # budi
+Jumlah kata: 3
+
+Kalimat: 1 4 % 5 kamaba
+Jumlah kata: 1
+
+Kalimat: 8 5 dua ipsum 4
+Jumlah kata: 2
+
+Kalimat: reget 5 nina & 5 . lorem tiga budi 8
+Jumlah kata: 5
+
+Kalimat: ? ; ello tiga tiga ipsum 4 . kaka
+Jumlah kata: 5
+
+Kalimat: 6 9 ello ? 0 #
+Jumlah kata: 1
+
+Kalimat: kaka % lorem 3 tiga % 1 6 budi
+Jumlah kata: 4
+
+Kalimat: 2 & & 6 6 nina satu ; 3
+Jumlah kata: 2
+
+Kalimat: 7 , . 1 : 1 budi ! tiga
+Jumlah kata: 2
+
+Kalimat: . 1 # andi ; dolor dua
+Jumlah kata: 3
+
+Kalimat: nina ? , kaka & ! nina ? . 0
+Jumlah kata: 3
+
+Kalimat: 7 0 : @ kamaba ! # dolor sari
+Jumlah kata: 3
+
+Kalimat: # 7 ! ello satu & 3
+Jumlah kata: 2
+
+Kalimat: dolor 1 2 7 ; : tiga budi
+Jumlah kata: 3
+
+Kalimat: ello 5 reget ! . 4 3
+Jumlah kata: 2
+
+Kalimat: ? : ipsum 8 reget ! ? !
+Jumlah kata: 2
+
+Kalimat: satu : kaka reget dolor
+Jumlah kata: 4
+
+Kalimat: 8 0 kamaba : kamaba 2 & andi
+Jumlah kata: 3
+
+Kalimat: satu sari 7 7 , satu andi 8 9 !
+Jumlah kata: 4
+
+Kalimat: : lorem lorem , ipsum
+Jumlah kata: 3
+
+Kalimat: lorem reget sari # satu 9 reget satu 0
+Jumlah kata: 6
+
+Kalimat: 9 nina ello 5 2 tiga 6 2
+Jumlah kata: 3
+
+Kalimat: 6 9 : , #
+Jumlah kata: 0
+
+Kalimat: # 0 budi @ @ 2
+Jumlah kata: 1
+
+Kalimat: 6 . ? 0 1 budi %
+Jumlah kata: 1
+
+Kalimat: 9 9 6 , nina
+Jumlah kata: 1
+
+Kalimat: % : dua @ ello & 8 &
+Jumlah kata: 2
+
+Kalimat: @ 4 satu 7 9
+Jumlah kata: 1
+
+Kalimat: satu ! : 1 &
+Jumlah kata: 1
+
+Kalimat: ! , 4 kaka # 2 .
+Jumlah kata: 1
+
+Kalimat: tiga ipsum 5 4 reget 0 dua 1
+Jumlah kata: 4
+
+Kalimat: 0 : : reget : 7 4 3
+Jumlah kata: 1
+
+Kalimat: 8 & lorem satu ? satu 6 1 % 3
+Jumlah kata: 3
+
+Kalimat: 1 ello 7 rida satu
+Jumlah kata: 3
+
+Kalimat: sari lorem 1 rida 3
+Jumlah kata: 3
+
+Kalimat: @ ; : reget 5 lorem
+Jumlah kata: 2
+
+Kalimat: 2 5 9 tiga satu 2 5 lorem
+Jumlah kata: 3
+
+Kalimat: : 3 . 7 reget &
+Jumlah kata: 1
+
+Kalimat: ello # 5 & 7 % ! 8 6
+Jumlah kata: 1
+
+Kalimat: # andi 2 5 ipsum . , 0 %
+Jumlah kata: 2
+
+Kalimat: 8 6 6 5 9 satu 1 kamaba ipsum
+Jumlah kata: 3
+
+Kalimat: 0 & 0 # % ? 1 sari 8 kamaba
+Jumlah kata: 2
+
+Kalimat: 8 4 sari kamaba # 7 1 5 satu
+Jumlah kata: 3
+
+Kalimat: kaka 6 budi 2 kamaba &
+Jumlah kata: 3
+
+Kalimat: % kamaba 7 9 sari nina
+Jumlah kata: 3
+
+Kalimat: reget andi 9 tiga ; & andi
+Jumlah kata: 4
+
+Kalimat: andi % 1 lorem tiga
+Jumlah kata: 3
+
+Kalimat: 2 # , 7 9 8 . & 0
+Jumlah kata: 0
+
+Kalimat: 9 8 budi : 4 ; & #
+Jumlah kata: 1
+
+Kalimat: 0 ! 2 lorem 9 8 9 ! ! #
+Jumlah kata: 1
+
+Kalimat: , 1 . ? 0 ipsum kaka .
+Jumlah kata: 2
+
+Kalimat: & ipsum . 3 kamaba 1 7 , 3 tiga
+Jumlah kata: 3
+
+Kalimat: ello & dolor : , ! 1 # 9 .
+Jumlah kata: 2
+
+Kalimat: : # @ . # 8 tiga @
+Jumlah kata: 1
+
+Kalimat: kaka 4 ; rida ?
+Jumlah kata: 2
+
+Kalimat: dolor ipsum dolor dua @ dolor 2 &
+Jumlah kata: 5
+
+Kalimat: , budi ? kaka ipsum 9
+Jumlah kata: 3
+
+Kalimat: ; 4 ; dua % . rida % 3 1
+Jumlah kata: 2
+
+Kalimat: 2 : andi andi 4
+Jumlah kata: 2
+
+Kalimat: tiga ! . 7 . 7
+Jumlah kata: 1
+
+Kalimat: 6 nina 1 , 2
+Jumlah kata: 1
+
+Kalimat: 7 9 andi budi , dua
+Jumlah kata: 3
+
+Kalimat: , 5 4 5 . 3 5 4 ello 5
+Jumlah kata: 1
+
+Kalimat: : ; reget 2 5 0 8
+Jumlah kata: 1
+
+Kalimat: 2 6 , 4 % : 8 ello 1 2
+Jumlah kata: 1
+
+Kalimat: 9 2 3 ; : budi
+Jumlah kata: 1
+
+Kalimat: 0 @ & @ reget ? ; reget .
+Jumlah kata: 2
+
+Kalimat: 5 2 rida , tiga 4
+Jumlah kata: 2
+
+Kalimat: ipsum ? # rida % 7
+Jumlah kata: 2
+
+Kalimat: 4 # 9 & : 7
+Jumlah kata: 0
+
+Kalimat: 0 andi ello 7 tiga 7
+Jumlah kata: 3
+
+Kalimat: 8 8 satu 0 1 rida
+Jumlah kata: 2
+
+Kalimat: 6 kamaba % andi # dua 3 sari ! 7
+Jumlah kata: 4
+
+Kalimat: # 8 % 1 nina . andi @ 9
+Jumlah kata: 2
+
+Kalimat: tiga 0 & 5 ipsum & . 0
+Jumlah kata: 2
+
+Kalimat: 3 lorem 6 9 9 5 satu %
+Jumlah kata: 2
+
+Kalimat: 8 4 : # ; % 6
+Jumlah kata: 0
+
+Kalimat: 7 9 dua rida 7
+Jumlah kata: 2
+
+Kalimat: , reget % # ? budi 4
+Jumlah kata: 2
+
+Kalimat: dua 6 1 : dolor 3
+Jumlah kata: 2
+
+Kalimat: 0 % 0 ? kamaba rida satu budi %
+Jumlah kata: 4
+
+Kalimat: 2 & ello dolor & 0 sari ? lorem
+Jumlah kata: 4
+
+Kalimat: 0 9 # dua dua rida 5 kamaba . 0
+Jumlah kata: 4
+
+Kalimat: 0 & sari tiga % 5 ? ! ello
+Jumlah kata: 3
+
+Kalimat: % 8 ! : @ 5 tiga 8 % !
+Jumlah kata: 1
+
+Kalimat: 5 , ipsum # % reget # 4 # rida
+Jumlah kata: 3
+
+Kalimat: , 8 9 kaka 2 lorem , kamaba
+Jumlah kata: 3
+
+Kalimat: ? 9 . tiga lorem , 8 3 andi
+Jumlah kata: 3
+
+Kalimat: : & kaka 3 ipsum
+Jumlah kata: 2
+
+Kalimat: # 9 7 3 4 ?
+Jumlah kata: 0
+
+Kalimat: 2 : reget . 3 sari ! satu
+Jumlah kata: 3
+
+Kalimat: ! reget ; # dua 6 ? ello 5 5
+Jumlah kata: 3
+
+Kalimat: 3 ! dua 1 ! 0 3 sari
+Jumlah kata: 2
+
+Kalimat: 1 rida 5 & : 9 lorem & andi
+Jumlah kata: 3
+
+Kalimat: 8 & kamaba : ello ; : : nina
+Jumlah kata: 3
+
+Kalimat: ipsum ipsum dua % 3 ; sari
+Jumlah kata: 4
+
+Kalimat: 4 ; ! @ kamaba : ! & %
+Jumlah kata: 1
+
+Kalimat: ipsum satu 2 3 1
+Jumlah kata: 2
+
+Kalimat: , , 8 ; # budi
+Jumlah kata: 1
+
+Kalimat: lorem ello 7 @ & # lorem ?
+Jumlah kata: 3
+
+Kalimat: nina ello 6 & ; :
+Jumlah kata: 2
+
+Kalimat: # satu 1 : rida 6 3 #
+Jumlah kata: 2
+
+Kalimat: @ 3 # andi kamaba
+Jumlah kata: 2
+
+Kalimat: nina 3 , 4 . , budi 2
+Jumlah kata: 2
+
+Kalimat: 2 . kamaba tiga 2 reget @
+Jumlah kata: 3
+
+Kalimat: lorem 4 , 5 6
+Jumlah kata: 1
+
+Kalimat: 8 % rida 4 rida & , @
+Jumlah kata: 2
+
+Kalimat: % , 9 5 ! ; lorem kaka 7 #
+Jumlah kata: 2
+
+Kalimat: tiga % 5 6 9 4 ipsum kamaba 7
+Jumlah kata: 3
+
+Kalimat: 5 % kaka ello # budi 0 %
+Jumlah kata: 3
+
+Kalimat: ; ? satu # 6 tiga ;
+Jumlah kata: 2
+
+Kalimat: 0 . dua , @ kamaba @
+Jumlah kata: 2
+
+Kalimat: 5 ipsum dolor 4 dua 2 9 # ?
+Jumlah kata: 3
+
+Kalimat: kaka . 3 tiga 6 6 dolor ; 1
+Jumlah kata: 3
+
+Kalimat: 6 tiga 4 0 . 4 dolor 2 . 6
+Jumlah kata: 2
+
+Kalimat: andi reget reget 7 kamaba 4 1 ; ! .
+Jumlah kata: 4
+
+Kalimat: ? dua @ 7 2 , @ ? 6
+Jumlah kata: 1
+
+Kalimat: @ 2 & andi dua 0 9
+Jumlah kata: 2
+
+Kalimat: ; 9 rida % lorem ,
+Jumlah kata: 2
+
+Kalimat: rida , . reget kamaba @ dolor 9 ello ,
+Jumlah kata: 5
+
+Kalimat: kamaba andi . 5 3 8 dua dolor 9
+Jumlah kata: 4
+
+Kalimat: 7 nina dolor tiga rida . ! nina
+Jumlah kata: 5
+
+Kalimat: rida 3 9 rida 2 # 2 ;
+Jumlah kata: 2
+
+Kalimat: : 4 3 , 0 @ % :
+Jumlah kata: 0
+
+Kalimat: ; ello ipsum 4 9 2 satu 0 4 1
+Jumlah kata: 3
+
+Kalimat: kaka 2 % 0 1 : ! ello
+Jumlah kata: 2
+
+Kalimat: : reget andi 5 # andi 4 3
+Jumlah kata: 3
+
+Kalimat: andi kamaba . 8 6 ? 4 ?
+Jumlah kata: 2
+
+Kalimat: andi 7 , 5 ? 2
+Jumlah kata: 1
+
+Kalimat: 9 0 . # 8
+Jumlah kata: 0
+
+Kalimat: kamaba 8 , ello 9 #
+Jumlah kata: 2
+
+Kalimat: lorem 1 sari 5 9 3 . andi 9 kamaba
+Jumlah kata: 4
+
+Kalimat: 9 ? 9 2 7 1 3
+Jumlah kata: 0
+
+Kalimat: lorem & ? ipsum dolor
+Jumlah kata: 3
+
+Kalimat: @ # 4 ? 5 ? 4
+Jumlah kata: 0
+
+Kalimat: satu : @ 1 % 9 ! .
+Jumlah kata: 1
+
+Kalimat: lorem ipsum dua 7 . 3 4
+Jumlah kata: 3
+
+Kalimat: 6 2 andi kaka 1 6 rida & .
+Jumlah kata: 3
+
+Kalimat: 5 1 7 nina 9 !
+Jumlah kata: 1
+
+Kalimat: ; , @ 6 9 & ! :
+Jumlah kata: 0
+
+Kalimat: ; ! tiga nina 5
+Jumlah kata: 2
+
+Kalimat: andi ; sari 4 .
+Jumlah kata: 2
+
+Kalimat: 9 % : 2 0 # 2 8 ello satu
+Jumlah kata: 2
+
+Kalimat: 2 1 andi @ ? dua ipsum nina
+Jumlah kata: 4
+
+Kalimat: . lorem 2 @ 8 8
+Jumlah kata: 1
+
+Kalimat: 8 0 : kaka 8 ? 4
+Jumlah kata: 1
+
+Kalimat: ipsum 6 kaka andi kamaba
+Jumlah kata: 4
+
+Kalimat: dolor nina & ? 3 andi
+Jumlah kata: 3
+
+Kalimat: 9 @ dua 9 tiga
+Jumlah kata: 2
+
+Kalimat: 0 ; 1 lorem 6 %
+Jumlah kata: 1
+
+Kalimat: & , 4 8 : 0 budi @ 7 ;
+Jumlah kata: 1
+
+Kalimat: @ ! 9 . 0 9 1
+Jumlah kata: 0
+
+Kalimat: tiga reget dua andi ipsum % 4
+Jumlah kata: 5
+
+Kalimat: ipsum ? 4 3 .
+Jumlah kata: 1
+
+Kalimat: , andi dolor 6 budi 5 ello rida ; &
+Jumlah kata: 5
+
+Kalimat: 2 @ 5 @ # reget reget # reget budi
+Jumlah kata: 4
+
+Kalimat: , 0 kaka 2 9
+Jumlah kata: 1
+
+Kalimat: ? ello 3 nina 9 2
+Jumlah kata: 2
+
+Kalimat: 7 ; ? ipsum 6 9 0 ipsum 6 5
+Jumlah kata: 2
+
+Kalimat: % # 2 kamaba ello ! lorem 3
+Jumlah kata: 3
+
+Kalimat: 7 rida nina 2 andi reget 5 7 rida kaka
+Jumlah kata: 6
+
+Kalimat: ello 9 0 9 sari kamaba , 3 1
+Jumlah kata: 3
+
+Kalimat: sari # lorem , kaka 3 andi
+Jumlah kata: 4
+
+Kalimat: 4 1 ? 8 9 ; 4 satu 8 %
+Jumlah kata: 1
+
+Kalimat: kaka # 6 rida 8
+Jumlah kata: 2
+
+Kalimat: 3 7 sari 1 8 8 ello , #
+Jumlah kata: 2
+
+Kalimat: dua 5 lorem ! kaka , 7
+Jumlah kata: 3
+
+Kalimat: nina 3 2 7 kamaba 6 budi @ 6 %
+Jumlah kata: 3
+
+Kalimat: dua ipsum lorem 1 7 #
+Jumlah kata: 3
+
+Kalimat: ipsum reget 6 5 kamaba @
+Jumlah kata: 3
+
+Kalimat: 3 2 # andi 5 rida
+Jumlah kata: 2
+
+Kalimat: satu : andi ello ipsum dolor
+Jumlah kata: 5
+
+Kalimat: & 0 & & ,
+Jumlah kata: 0
+
+Kalimat: 4 # , nina 4 kaka reget
+Jumlah kata: 3
+
+Kalimat: nina 4 5 @ satu 5 0
+Jumlah kata: 2
+
+Kalimat: ipsum % 0 . dolor 7 3
+Jumlah kata: 2
+
+Kalimat: 9 : . dua 1 #
+Jumlah kata: 1
+
+Kalimat: 8 ; . lorem 3 ?
+Jumlah kata: 1
+
+Kalimat: 5 kaka 1 nina dua 9 ; . 5
+Jumlah kata: 3
+
+Kalimat: & 5 kaka 4 5 tiga
+Jumlah kata: 2
+
+Kalimat: 0 kamaba # & 0 2 ! kaka budi
+Jumlah kata: 3
+
+Kalimat: kamaba : kaka . 9
+Jumlah kata: 2
+
+Kalimat: ello satu ; , # rida 5
+Jumlah kata: 3
+
+Kalimat: # kaka dolor nina % 4 % ,
+Jumlah kata: 3
+
+Kalimat: ? # budi ; ; 4
+Jumlah kata: 1
+
+Kalimat: sari 5 budi # @ 1 andi , ?
+Jumlah kata: 3
+
+Kalimat: kaka kaka tiga ! dua tiga 6 9 budi
+Jumlah kata: 6
+
+Kalimat: 7 satu 2 budi tiga
+Jumlah kata: 3
+
+Kalimat: ? 0 , & dua ? 5 %
+Jumlah kata: 1
+
+Kalimat: 1 : lorem 3 kaka 6 budi
+Jumlah kata: 3
+
+Kalimat: 4 @ 0 rida # % 2
+Jumlah kata: 1
+
+Kalimat: , budi 9 kamaba 2
+Jumlah kata: 2
+
+Kalimat: dua 9 & 6 sari ? 4
+Jumlah kata: 2
+
+Kalimat: 7 lorem ; ipsum 3 ! @ ! ipsum
+Jumlah kata: 3
+
+Kalimat: ? kaka 7 ! satu @Jumlah kata: 2
+
